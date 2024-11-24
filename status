@@ -1,0 +1,33 @@
+[33mcommit 44ce2e324480873e7d14d7052360e2fe349e3fef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Finn <finnjorg@gmail.com>
+Date:   Sun Nov 24 16:38:30 2024 +0100
+
+    24 nov 1638
+
+[33mcommit 235dc0b9839c9922f6b8582514ea563a1c9579f7[m
+Author: Finn <finnjorg@gmail.com>
+Date:   Sun Nov 24 16:34:16 2024 +0100
+
+    ne
+
+[33mcommit aace4542a01489c30a42e1301326cdba0c7b2fae[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hammerknuden <finnjorg@mail.dk>
+Date:   Fri Nov 22 10:18:48 2024 +0100
+
+    Update tekst 1
+    
+    try to get git up to date
+
+[33mcommit 34dfce070e92efc657b2b3fe72fdbfcdbbd2326f[m
+Author: Hammerknuden <finnjorg@mail.dk>
+Date:   Fri Nov 22 10:08:34 2024 +0100
+
+    commit 1
+    
+    tekst file for new setup
+
+[33mcommit 8c4b397949aa86c9995dda20552efaf7833d8b9b[m
+Author: Hammerknuden <finnjorg@mail.dk>
+Date:   Sun Nov 17 15:38:32 2024 +0100
+
+    Initial commit

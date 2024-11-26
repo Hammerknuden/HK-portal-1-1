@@ -6,7 +6,7 @@ from pathlib import Path
 from datetime import datetime
 
 
-port = 587 #587
+port = 587 
 smtp_server = 'send.one.com'  #'asmtp.yousee.dk'
 Subject = "Hammerknuden Reservation"
 sender_email = 'reservation@hammerknuden.dk' #'Hkreservation@mail.dk'
